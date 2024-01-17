@@ -27,4 +27,5 @@ NOTE:
 เรียนเขียนโค้ด 9-12 โมง เรียน data visualization เเละ distance matrix
 เหลือ z-score เเละ normalized
 สัปดาห์หน้ายกคลาส เจอกันอีกที 13 ธ.ค.2566
-
+# 17/1/2024 
+การเรียน Decision Trees เเละการบ้าน HW2
